@@ -1,5 +1,3 @@
-![Animated Banner](<img width="649" height="240" alt="image" src="https://github.com/user-attachments/assets/6ed30da5-122e-4a71-aa53-ab88f43dff31" />
-)
 
 # Hey, I'm Charuta 👋
 I'm currently working with a team of data engineers, where I spend a good amount of time looking at SQL queries, transforming data, and helping make sure it ends up somewhere useful. Very glamorous stuff. I studied Computer Science with a specialisation in Data Analytics, but at this point, I'm mostly just interested in figuring out how things work. This has unfortunately led me down several unnecessary rabbit holes involving AI, economics, software, business, and whatever else the internet throws at me. Currently learning more about data engineering, ETL processes, software development, and AI. Will I eventually pick one lane? Probably. Maybe. 
