@@ -1,14 +1,5 @@
-
-
-<p align="center">
-  <img src="(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHQ0eWhqcnV5N3Y2bW5hZzBlaWc2aWFxcHB0YzFva25mdGthdHNzdyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/liBsVeLILcyaY/giphy.gif) " alt="Hey, I'm Charuta" width="100%">
-</p>
-
-# Hey, I'm Charuta 👋
-
-I'm currently working with a team of data engineers...
-
-
+![Animated Banner](<img width="920" height="340" alt="image" src="https://github.com/user-attachments/assets/1f1f6550-a4bf-4280-a917-d0923e650114" />
+)
 # Hey, I'm Charuta 👋
 I'm currently working with a team of data engineers, where I spend a good amount of time looking at SQL queries, transforming data, and helping make sure it ends up somewhere useful. Very glamorous stuff. I studied Computer Science with a specialisation in Data Analytics, but at this point, I'm mostly just interested in figuring out how things work. This has unfortunately led me down several unnecessary rabbit holes involving AI, economics, software, business, and whatever else the internet throws at me. Currently learning more about data engineering, ETL processes, software development, and AI. Will I eventually pick one lane? Probably. Maybe. 
 
