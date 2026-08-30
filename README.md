@@ -1,4 +1,12 @@
-![Animated Banner](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHQ0eWhqcnV5N3Y2bW5hZzBlaWc2aWFxcHB0YzFva25mdGthdHNzdyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/liBsVeLILcyaY/giphy.gif)
+
+
+<p align="center">
+  <img src="(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHQ0eWhqcnV5N3Y2bW5hZzBlaWc2aWFxcHB0YzFva25mdGthdHNzdyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/liBsVeLILcyaY/giphy.gif) " alt="Hey, I'm Charuta" width="100%">
+</p>
+
+# Hey, I'm Charuta 👋
+
+I'm currently working with a team of data engineers...
 
 
 # Hey, I'm Charuta 👋
